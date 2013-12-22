@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: sportngin-mongodb-cookbook
+# Cookbook Name:: sportngin-mongodb
 # Recipe:: default
 #
 # Copyright (C) 2013 Sport Ngin
