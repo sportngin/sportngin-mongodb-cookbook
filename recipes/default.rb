@@ -6,6 +6,6 @@
 #
 # All rights reserved - Do Not Redistribute
 
-require_recipe "sportngin-mongodb::mongodb_repo"
-require_recipe "mongodb"
+include_recipe "sportngin-mongodb::mongodb_repo"
+include_recipe "mongodb"
 
