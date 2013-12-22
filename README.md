@@ -1,4 +1,13 @@
-sportngin-mongodb-cookbook
-==========================
+# sportngin-mongodb-cookbook cookbook
 
-Sport Ngin monogodb wrapper cookbook
+# Requirements
+
+# Usage
+
+# Attributes
+
+# Recipes
+
+# Author
+
+Author:: YOUR_NAME (<YOUR_EMAIL>)
